@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fdfeff;
+  padding-inline: 20px;
+  background-color: rgb(89, 174, 174);
+}
+
+.table {
+  border-collapse: separate;
+  border-spacing: 10px;
+  width: auto;
+  border: 1px solid #ddd;
+  background-color: rgb(235, 235, 235);
+}
